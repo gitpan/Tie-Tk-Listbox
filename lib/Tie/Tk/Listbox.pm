@@ -1,7 +1,7 @@
 
 # See the POD documentation at the end of this
 # document for detailed copyright information.
-# (c) 2003 Steffen Mueller, all rights reserved.
+# (c) 2003-2006 Steffen Mueller, all rights reserved.
 
 package Tie::Tk::Listbox;
 
@@ -11,7 +11,7 @@ use warnings;
 use Carp;
 
 use vars qw/$VERSION/;
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 
 sub TIEARRAY  {
@@ -230,7 +230,7 @@ Steffen Mueller, E<lt>tklistbox-module at steffen-mueller dot net<gt>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2003 Steffen Mueller. All rights reserved.
+Copyright (c) 2003-2006 Steffen Mueller. All rights reserved.
 This program is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself.
 

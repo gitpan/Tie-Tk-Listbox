@@ -1,7 +1,9 @@
 Changes
+lib/Tie/Tk/Listbox.pm
 Makefile.PL
 MANIFEST
+META.yml			Module meta-data (added by MakeMaker)
 README
-test.pl
-lib/Tie/Tk/Listbox.pm
-
+t/0-pod.t
+t/0-podcover.t
+t/1-basic.t
